@@ -1,0 +1,21 @@
+test_file_add:
+  case1:
+    taskPriority: 5
+    playMode: 0
+    volume: 50
+    taskName: "自动_1"
+  case2:
+    taskPriority: 6
+    playMode: 1
+    volume: 50
+    taskName: "自动_2"
+  case3:
+    taskPriority: 7
+    playMode: 2
+    volume: 50
+    taskName: "自动_3"
+  case4:
+    taskPriority: 8
+    playMode: 2
+    volume: 50
+    taskName: "自动_4"
