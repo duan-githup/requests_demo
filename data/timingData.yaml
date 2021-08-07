@@ -1,0 +1,21 @@
+test_timing_add:
+  case1:
+    planName: "自动测试方案"
+    beginDate: "2021-08-07"
+    endDate: "2021-08-31"
+test_timing_task_add:
+  case1:
+    planId: "873589743932018688"
+    taskHardwareId: "112233440309,202107310226"
+    taskName: "定时任务"
+    timedExecuteType: 1
+    weeks: "1,4,7,2,5,3,6"
+    executeTime: "15:34:24"
+    continueTime: "00:01:00"
+    taskPriority: 5
+    taskVolume: "50"
+    taskType: 161
+    taskMediaFileId: ",861999060532203520"
+    playMode: 3
+    speechData: '{"voiceId":1,"speed":50,"tone":50,"playCount":1}'
+    captureType: 1

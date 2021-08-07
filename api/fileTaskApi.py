@@ -38,6 +38,6 @@ class FileTaskApi:
 
 if __name__ == '__main__':
     from api.entranceApi import EntranceApi
-    t = EntranceApi().token().getToken()
+    t = EntranceApi().ent_token().getToken()
     f = FileTaskApi()
     f.file_add(t)

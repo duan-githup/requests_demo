@@ -45,8 +45,9 @@ class TestFileTask:
 
             sql = s.sql_taskId.format(value["taskName"])
             taskId = BasePymysql.py_execut_fetchall(self.cursor, sql)
-            listId = self.terminal.append(taskId)
-            log.success("通过任务名称查询ID:{}".format(listId))
+            self.terminal.append(taskId)
+            log.success("通过任务名称查询ID:{}".format(self.terminal))
+
 
         except Exception as e:
             self.conn.rollback()

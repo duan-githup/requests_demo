@@ -1,0 +1,411 @@
+2021-08-07 14:01:03.598 | SUCCESS  | api.tokenApi:__init__:12 - ————————————————————> 初始化获取【登录】接口资源
+2021-08-07 14:01:03.606 | SUCCESS  | api.tokenApi:getToken:15 - 用户登录获取token
+2021-08-07 14:04:41.288 | SUCCESS  | api.tokenApi:__init__:12 - ————————————————————> 初始化获取【登录】接口资源
+2021-08-07 14:04:41.288 | SUCCESS  | api.tokenApi:getToken:15 - 用户登录获取token
+2021-08-07 14:04:41.507 | SUCCESS  | scripts.test_fileTask:test_file_add:27 - 获取参数：5,0,50,自动_1
+2021-08-07 14:04:43.515 | SUCCESS  | scripts.test_fileTask:test_file_add:33 - 查询终端ID:010102020301,010172021312,010172021315,010172021316,010172021319,010172021323,010172021320,010172021321,010172021317,010172021322,010172021318,112233440309,010172021301,112233440308,202107130306,202107290001,202107310226,202108050240,112233440306,202107300221,112233440368
+2021-08-07 14:04:43.530 | SUCCESS  | scripts.test_fileTask:test_file_add:37 - 查询音频文件ID:
+2021-08-07 14:04:43.546 | SUCCESS  | api.fileTaskApi:__init__:12 - ——————————————————————————> 初始化【文件广播】接口资源
+2021-08-07 14:04:43.593 | SUCCESS  | api.fileTaskApi:file_add:15 - 添加文件广播任务
+2021-08-07 14:04:43.624 | SUCCESS  | scripts.test_fileTask:test_file_add:42 - 响应内容:{"status":-1,"msg":"必须选择媒体文件"}
+2021-08-07 14:04:43.640 | SUCCESS  | scripts.test_fileTask:test_file_add:43 - 响应状态码:200
+2021-08-07 14:04:43.640 | SUCCESS  | scripts.test_fileTask:test_file_add:49 - 通过任务名称查询ID:None
+2021-08-07 14:04:43.640 | SUCCESS  | scripts.test_fileTask:test_file_add:27 - 获取参数：6,1,50,自动_2
+2021-08-07 14:04:45.640 | SUCCESS  | scripts.test_fileTask:test_file_add:33 - 查询终端ID:010102020301,010172021312,010172021315,010172021316,010172021319,010172021323,010172021320,010172021321,010172021317,010172021322,010172021318,112233440309,010172021301,112233440308,202107130306,202107290001,202107310226,202108050240,112233440306,202107300221,112233440368
+2021-08-07 14:04:45.655 | SUCCESS  | scripts.test_fileTask:test_file_add:37 - 查询音频文件ID:
+2021-08-07 14:04:45.671 | SUCCESS  | api.fileTaskApi:__init__:12 - ——————————————————————————> 初始化【文件广播】接口资源
+2021-08-07 14:04:45.686 | SUCCESS  | api.fileTaskApi:file_add:15 - 添加文件广播任务
+2021-08-07 14:04:45.718 | SUCCESS  | scripts.test_fileTask:test_file_add:42 - 响应内容:{"status":-1,"msg":"必须选择媒体文件"}
+2021-08-07 14:04:45.733 | SUCCESS  | scripts.test_fileTask:test_file_add:43 - 响应状态码:200
+2021-08-07 14:04:45.740 | SUCCESS  | scripts.test_fileTask:test_file_add:49 - 通过任务名称查询ID:None
+2021-08-07 14:04:45.749 | SUCCESS  | scripts.test_fileTask:test_file_add:27 - 获取参数：7,2,50,自动_3
+2021-08-07 14:04:47.757 | SUCCESS  | scripts.test_fileTask:test_file_add:33 - 查询终端ID:010102020301,010172021312,010172021315,010172021316,010172021319,010172021323,010172021320,010172021321,010172021317,010172021322,010172021318,112233440309,010172021301,112233440308,202107130306,202107290001,202107310226,202108050240,112233440306,202107300221,112233440368
+2021-08-07 14:04:47.776 | SUCCESS  | scripts.test_fileTask:test_file_add:37 - 查询音频文件ID:
+2021-08-07 14:04:47.782 | SUCCESS  | api.fileTaskApi:__init__:12 - ——————————————————————————> 初始化【文件广播】接口资源
+2021-08-07 14:04:47.798 | SUCCESS  | api.fileTaskApi:file_add:15 - 添加文件广播任务
+2021-08-07 14:04:47.844 | SUCCESS  | scripts.test_fileTask:test_file_add:42 - 响应内容:{"status":-1,"msg":"必须选择媒体文件"}
+2021-08-07 14:04:47.844 | SUCCESS  | scripts.test_fileTask:test_file_add:43 - 响应状态码:200
+2021-08-07 14:04:47.844 | SUCCESS  | scripts.test_fileTask:test_file_add:49 - 通过任务名称查询ID:None
+2021-08-07 14:04:47.860 | SUCCESS  | scripts.test_fileTask:test_file_add:27 - 获取参数：8,2,50,自动_4
+2021-08-07 14:04:49.874 | SUCCESS  | scripts.test_fileTask:test_file_add:33 - 查询终端ID:010102020301,010172021312,010172021315,010172021316,010172021319,010172021323,010172021320,010172021321,010172021317,010172021322,010172021318,112233440309,010172021301,112233440308,202107130306,202107290001,202107310226,202108050240,112233440306,202107300221,112233440368
+2021-08-07 14:04:49.890 | SUCCESS  | scripts.test_fileTask:test_file_add:37 - 查询音频文件ID:
+2021-08-07 14:04:49.905 | SUCCESS  | api.fileTaskApi:__init__:12 - ——————————————————————————> 初始化【文件广播】接口资源
+2021-08-07 14:04:49.921 | SUCCESS  | api.fileTaskApi:file_add:15 - 添加文件广播任务
+2021-08-07 14:04:49.952 | SUCCESS  | scripts.test_fileTask:test_file_add:42 - 响应内容:{"status":-1,"msg":"必须选择媒体文件"}
+2021-08-07 14:04:49.968 | SUCCESS  | scripts.test_fileTask:test_file_add:43 - 响应状态码:200
+2021-08-07 14:04:49.968 | SUCCESS  | scripts.test_fileTask:test_file_add:49 - 通过任务名称查询ID:None
+2021-08-07 14:04:49.968 | SUCCESS  | api.fileTaskApi:__init__:12 - ——————————————————————————> 初始化【文件广播】接口资源
+2021-08-07 14:04:49.984 | SUCCESS  | api.fileTaskApi:file_del:30 - 删除文件广播任务
+2021-08-07 14:04:49.999 | SUCCESS  | scripts.test_fileTask:test_file_del:61 - 删除任务ID:,,,
+2021-08-07 14:04:49.999 | SUCCESS  | scripts.test_fileTask:test_file_del:62 - 响应内容:{"status":0,"msg":"成功"}
+2021-08-07 14:04:49.999 | SUCCESS  | scripts.test_fileTask:test_file_del:63 - 响应状态码:200
+2021-08-07 14:11:52.292 | SUCCESS  | api.tokenApi:__init__:12 - ————————————————————> 初始化获取【登录】接口资源
+2021-08-07 14:11:52.298 | SUCCESS  | api.tokenApi:getToken:15 - 用户登录获取token
+2021-08-07 14:11:52.455 | SUCCESS  | scripts.test_fileTask:test_file_add:27 - 获取参数：5,0,50,自动_1
+2021-08-07 14:11:54.462 | SUCCESS  | scripts.test_fileTask:test_file_add:33 - 查询终端ID:010102020301,010172021312,010172021315,010172021316,010172021319,010172021323,010172021320,010172021321,010172021317,010172021322,010172021318,112233440309,010172021301,112233440308,202107130306,202107290001,202107310226,202108050240,112233440306,202107300221,112233440368
+2021-08-07 14:11:54.471 | SUCCESS  | scripts.test_fileTask:test_file_add:37 - 查询音频文件ID:850781720083828736,850781740975656960,850781769136214016,850781777927475200,856575702202191872,861999060532203520,862363015368806400
+2021-08-07 14:11:54.477 | SUCCESS  | api.fileTaskApi:__init__:12 - ——————————————————————————> 初始化【文件广播】接口资源
+2021-08-07 14:11:54.485 | SUCCESS  | api.fileTaskApi:file_add:15 - 添加文件广播任务
+2021-08-07 14:11:54.772 | SUCCESS  | scripts.test_fileTask:test_file_add:42 - 响应内容:{"status":0,"msg":"成功"}
+2021-08-07 14:11:54.779 | SUCCESS  | scripts.test_fileTask:test_file_add:43 - 响应状态码:200
+2021-08-07 14:11:54.789 | SUCCESS  | scripts.test_fileTask:test_file_add:49 - 通过任务名称查询ID:None
+2021-08-07 14:11:54.808 | SUCCESS  | scripts.test_fileTask:test_file_add:27 - 获取参数：6,1,50,自动_2
+2021-08-07 14:11:56.816 | SUCCESS  | scripts.test_fileTask:test_file_add:33 - 查询终端ID:010102020301,010172021312,010172021315,010172021316,010172021319,010172021323,010172021320,010172021321,010172021317,010172021322,010172021318,112233440309,010172021301,112233440308,202107130306,202107290001,202107310226,202108050240,112233440306,202107300221,112233440368
+2021-08-07 14:11:56.825 | SUCCESS  | scripts.test_fileTask:test_file_add:37 - 查询音频文件ID:850781720083828736,850781740975656960,850781769136214016,850781777927475200,856575702202191872,861999060532203520,862363015368806400
+2021-08-07 14:11:56.831 | SUCCESS  | api.fileTaskApi:__init__:12 - ——————————————————————————> 初始化【文件广播】接口资源
+2021-08-07 14:11:56.837 | SUCCESS  | api.fileTaskApi:file_add:15 - 添加文件广播任务
+2021-08-07 14:11:57.086 | SUCCESS  | scripts.test_fileTask:test_file_add:42 - 响应内容:{"status":0,"msg":"成功"}
+2021-08-07 14:11:57.091 | SUCCESS  | scripts.test_fileTask:test_file_add:43 - 响应状态码:200
+2021-08-07 14:11:57.097 | SUCCESS  | scripts.test_fileTask:test_file_add:49 - 通过任务名称查询ID:None
+2021-08-07 14:11:57.107 | SUCCESS  | scripts.test_fileTask:test_file_add:27 - 获取参数：7,2,50,自动_3
+2021-08-07 14:11:59.114 | SUCCESS  | scripts.test_fileTask:test_file_add:33 - 查询终端ID:010102020301,010172021312,010172021315,010172021316,010172021319,010172021323,010172021320,010172021321,010172021317,010172021322,010172021318,112233440309,010172021301,112233440308,202107130306,202107290001,202107310226,202108050240,112233440306,202107300221,112233440368
+2021-08-07 14:11:59.147 | SUCCESS  | scripts.test_fileTask:test_file_add:37 - 查询音频文件ID:850781720083828736,850781740975656960,850781769136214016,850781777927475200,856575702202191872,861999060532203520,862363015368806400
+2021-08-07 14:11:59.159 | SUCCESS  | api.fileTaskApi:__init__:12 - ——————————————————————————> 初始化【文件广播】接口资源
+2021-08-07 14:11:59.172 | SUCCESS  | api.fileTaskApi:file_add:15 - 添加文件广播任务
+2021-08-07 14:11:59.562 | SUCCESS  | scripts.test_fileTask:test_file_add:42 - 响应内容:{"status":0,"msg":"成功"}
+2021-08-07 14:11:59.570 | SUCCESS  | scripts.test_fileTask:test_file_add:43 - 响应状态码:200
+2021-08-07 14:11:59.580 | SUCCESS  | scripts.test_fileTask:test_file_add:49 - 通过任务名称查询ID:None
+2021-08-07 14:11:59.597 | SUCCESS  | scripts.test_fileTask:test_file_add:27 - 获取参数：8,2,50,自动_4
+2021-08-07 14:12:01.607 | SUCCESS  | scripts.test_fileTask:test_file_add:33 - 查询终端ID:010102020301,010172021312,010172021315,010172021316,010172021319,010172021323,010172021320,010172021321,010172021317,010172021322,010172021318,112233440309,010172021301,112233440308,202107130306,202107290001,202107310226,202108050240,112233440306,202107300221,112233440368
+2021-08-07 14:12:01.625 | SUCCESS  | scripts.test_fileTask:test_file_add:37 - 查询音频文件ID:850781720083828736,850781740975656960,850781769136214016,850781777927475200,856575702202191872,861999060532203520,862363015368806400
+2021-08-07 14:12:01.640 | SUCCESS  | api.fileTaskApi:__init__:12 - ——————————————————————————> 初始化【文件广播】接口资源
+2021-08-07 14:12:01.649 | SUCCESS  | api.fileTaskApi:file_add:15 - 添加文件广播任务
+2021-08-07 14:12:01.930 | SUCCESS  | scripts.test_fileTask:test_file_add:42 - 响应内容:{"status":0,"msg":"成功"}
+2021-08-07 14:12:01.937 | SUCCESS  | scripts.test_fileTask:test_file_add:43 - 响应状态码:200
+2021-08-07 14:12:01.947 | SUCCESS  | scripts.test_fileTask:test_file_add:49 - 通过任务名称查询ID:None
+2021-08-07 14:12:01.964 | SUCCESS  | api.fileTaskApi:__init__:12 - ——————————————————————————> 初始化【文件广播】接口资源
+2021-08-07 14:12:01.970 | SUCCESS  | api.fileTaskApi:file_del:30 - 删除文件广播任务
+2021-08-07 14:12:02.459 | SUCCESS  | scripts.test_fileTask:test_file_del:61 - 删除任务ID:873569140814516224,873569150616604672,873569160502579200,873569170925424640
+2021-08-07 14:12:02.466 | SUCCESS  | scripts.test_fileTask:test_file_del:62 - 响应内容:{"status":0,"msg":"成功"}
+2021-08-07 14:12:02.472 | SUCCESS  | scripts.test_fileTask:test_file_del:63 - 响应状态码:200
+2021-08-07 14:15:47.667 | SUCCESS  | api.tokenApi:__init__:12 - ————————————————————> 初始化获取【登录】接口资源
+2021-08-07 14:15:47.671 | SUCCESS  | api.tokenApi:getToken:15 - 用户登录获取token
+2021-08-07 14:15:47.848 | SUCCESS  | scripts.test_fileTask:test_file_add:27 - 获取参数：5,0,50,自动_1
+2021-08-07 14:15:49.857 | SUCCESS  | scripts.test_fileTask:test_file_add:33 - 查询终端ID:010102020301,010172021312,010172021315,010172021316,010172021319,010172021323,010172021320,010172021321,010172021317,010172021322,010172021318,112233440309,010172021301,112233440308,202107130306,202107290001,202107310226,202108050240,112233440306,202107300221,112233440368
+2021-08-07 14:15:49.877 | SUCCESS  | scripts.test_fileTask:test_file_add:37 - 查询音频文件ID:850781720083828736,850781740975656960,850781769136214016,850781777927475200,856575702202191872,861999060532203520,862363015368806400
+2021-08-07 14:15:49.906 | SUCCESS  | api.fileTaskApi:__init__:12 - ——————————————————————————> 初始化【文件广播】接口资源
+2021-08-07 14:15:49.925 | SUCCESS  | api.fileTaskApi:file_add:15 - 添加文件广播任务
+2021-08-07 14:15:50.179 | SUCCESS  | scripts.test_fileTask:test_file_add:42 - 响应内容:{"status":0,"msg":"成功"}
+2021-08-07 14:15:50.188 | SUCCESS  | scripts.test_fileTask:test_file_add:43 - 响应状态码:200
+2021-08-07 14:15:50.202 | SUCCESS  | scripts.test_fileTask:test_file_add:49 - 通过任务名称查询ID:['873570128325644288']
+2021-08-07 14:15:50.225 | SUCCESS  | scripts.test_fileTask:test_file_add:27 - 获取参数：6,1,50,自动_2
+2021-08-07 14:15:52.236 | SUCCESS  | scripts.test_fileTask:test_file_add:33 - 查询终端ID:010102020301,010172021312,010172021315,010172021316,010172021319,010172021323,010172021320,010172021321,010172021317,010172021322,010172021318,112233440309,010172021301,112233440308,202107130306,202107290001,202107310226,202108050240,112233440306,202107300221,112233440368
+2021-08-07 14:15:52.256 | SUCCESS  | scripts.test_fileTask:test_file_add:37 - 查询音频文件ID:850781720083828736,850781740975656960,850781769136214016,850781777927475200,856575702202191872,861999060532203520,862363015368806400
+2021-08-07 14:15:52.287 | SUCCESS  | api.fileTaskApi:__init__:12 - ——————————————————————————> 初始化【文件广播】接口资源
+2021-08-07 14:15:52.307 | SUCCESS  | api.fileTaskApi:file_add:15 - 添加文件广播任务
+2021-08-07 14:15:52.542 | SUCCESS  | scripts.test_fileTask:test_file_add:42 - 响应内容:{"status":0,"msg":"成功"}
+2021-08-07 14:15:52.547 | SUCCESS  | scripts.test_fileTask:test_file_add:43 - 响应状态码:200
+2021-08-07 14:15:52.554 | SUCCESS  | scripts.test_fileTask:test_file_add:49 - 通过任务名称查询ID:['873570128325644288', '873570138282921984']
+2021-08-07 14:15:52.562 | SUCCESS  | scripts.test_fileTask:test_file_add:27 - 获取参数：7,2,50,自动_3
+2021-08-07 14:15:54.570 | SUCCESS  | scripts.test_fileTask:test_file_add:33 - 查询终端ID:010102020301,010172021312,010172021315,010172021316,010172021319,010172021323,010172021320,010172021321,010172021317,010172021322,010172021318,112233440309,010172021301,112233440308,202107130306,202107290001,202107310226,202108050240,112233440306,202107300221,112233440368
+2021-08-07 14:15:54.590 | SUCCESS  | scripts.test_fileTask:test_file_add:37 - 查询音频文件ID:850781720083828736,850781740975656960,850781769136214016,850781777927475200,856575702202191872,861999060532203520,862363015368806400
+2021-08-07 14:15:54.604 | SUCCESS  | api.fileTaskApi:__init__:12 - ——————————————————————————> 初始化【文件广播】接口资源
+2021-08-07 14:15:54.615 | SUCCESS  | api.fileTaskApi:file_add:15 - 添加文件广播任务
+2021-08-07 14:15:54.875 | SUCCESS  | scripts.test_fileTask:test_file_add:42 - 响应内容:{"status":0,"msg":"成功"}
+2021-08-07 14:15:54.884 | SUCCESS  | scripts.test_fileTask:test_file_add:43 - 响应状态码:200
+2021-08-07 14:15:54.897 | SUCCESS  | scripts.test_fileTask:test_file_add:49 - 通过任务名称查询ID:['873570128325644288', '873570138282921984', '873570147992735744']
+2021-08-07 14:15:54.921 | SUCCESS  | scripts.test_fileTask:test_file_add:27 - 获取参数：8,2,50,自动_4
+2021-08-07 14:15:56.929 | SUCCESS  | scripts.test_fileTask:test_file_add:33 - 查询终端ID:010102020301,010172021312,010172021315,010172021316,010172021319,010172021323,010172021320,010172021321,010172021317,010172021322,010172021318,112233440309,010172021301,112233440308,202107130306,202107290001,202107310226,202108050240,112233440306,202107300221,112233440368
+2021-08-07 14:15:56.937 | SUCCESS  | scripts.test_fileTask:test_file_add:37 - 查询音频文件ID:850781720083828736,850781740975656960,850781769136214016,850781777927475200,856575702202191872,861999060532203520,862363015368806400
+2021-08-07 14:15:56.941 | SUCCESS  | api.fileTaskApi:__init__:12 - ——————————————————————————> 初始化【文件广播】接口资源
+2021-08-07 14:15:56.946 | SUCCESS  | api.fileTaskApi:file_add:15 - 添加文件广播任务
+2021-08-07 14:15:57.182 | SUCCESS  | scripts.test_fileTask:test_file_add:42 - 响应内容:{"status":0,"msg":"成功"}
+2021-08-07 14:15:57.187 | SUCCESS  | scripts.test_fileTask:test_file_add:43 - 响应状态码:200
+2021-08-07 14:15:57.192 | SUCCESS  | scripts.test_fileTask:test_file_add:49 - 通过任务名称查询ID:['873570128325644288', '873570138282921984', '873570147992735744', '873570157773852672']
+2021-08-07 14:15:57.198 | SUCCESS  | api.fileTaskApi:__init__:12 - ——————————————————————————> 初始化【文件广播】接口资源
+2021-08-07 14:15:57.202 | SUCCESS  | api.fileTaskApi:file_del:30 - 删除文件广播任务
+2021-08-07 14:15:57.495 | SUCCESS  | scripts.test_fileTask:test_file_del:61 - 删除任务ID:873570128325644288,873570138282921984,873570147992735744,873570157773852672
+2021-08-07 14:15:57.504 | SUCCESS  | scripts.test_fileTask:test_file_del:62 - 响应内容:{"status":0,"msg":"成功"}
+2021-08-07 14:15:57.514 | SUCCESS  | scripts.test_fileTask:test_file_del:63 - 响应状态码:200
+2021-08-07 14:23:15.999 | SUCCESS  | api.tokenApi:__init__:12 - ————————————————————> 初始化获取【登录】接口资源
+2021-08-07 14:23:16.005 | SUCCESS  | api.tokenApi:getToken:15 - 用户登录获取token
+2021-08-07 14:23:16.174 | SUCCESS  | scripts.test_fileTask:test_file_add:27 - 获取参数：5,0,50,自动_1
+2021-08-07 14:23:18.182 | SUCCESS  | scripts.test_fileTask:test_file_add:33 - 查询终端ID:010102020301,010172021312,010172021315,010172021316,010172021319,010172021323,010172021320,010172021321,010172021317,010172021322,010172021318,112233440309,010172021301,112233440308,202107130306,202107290001,202107310226,202108050240,112233440306,202107300221,112233440368
+2021-08-07 14:23:18.192 | SUCCESS  | scripts.test_fileTask:test_file_add:37 - 查询音频文件ID:850781720083828736,850781740975656960,850781769136214016,850781777927475200,856575702202191872,861999060532203520,862363015368806400
+2021-08-07 14:23:18.198 | SUCCESS  | api.fileTaskApi:__init__:12 - ——————————————————————————> 初始化【文件广播】接口资源
+2021-08-07 14:23:18.205 | SUCCESS  | api.fileTaskApi:file_add:15 - 添加文件广播任务
+2021-08-07 14:23:18.452 | SUCCESS  | scripts.test_fileTask:test_file_add:42 - 响应内容:{"status":0,"msg":"成功"}
+2021-08-07 14:23:18.459 | SUCCESS  | scripts.test_fileTask:test_file_add:43 - 响应状态码:200
+2021-08-07 14:23:18.478 | SUCCESS  | scripts.test_fileTask:test_file_add:49 - 通过任务名称查询ID:['873572008489521152']
+2021-08-07 14:23:18.491 | SUCCESS  | scripts.test_fileTask:test_file_add:27 - 获取参数：6,1,50,自动_2
+2021-08-07 14:23:20.499 | SUCCESS  | scripts.test_fileTask:test_file_add:33 - 查询终端ID:010102020301,010172021312,010172021315,010172021316,010172021319,010172021323,010172021320,010172021321,010172021317,010172021322,010172021318,112233440309,010172021301,112233440308,202107130306,202107290001,202107310226,202108050240,112233440306,202107300221,112233440368
+2021-08-07 14:23:20.536 | SUCCESS  | scripts.test_fileTask:test_file_add:37 - 查询音频文件ID:850781720083828736,850781740975656960,850781769136214016,850781777927475200,856575702202191872,861999060532203520,862363015368806400
+2021-08-07 14:23:20.550 | SUCCESS  | api.fileTaskApi:__init__:12 - ——————————————————————————> 初始化【文件广播】接口资源
+2021-08-07 14:23:20.564 | SUCCESS  | api.fileTaskApi:file_add:15 - 添加文件广播任务
+2021-08-07 14:23:20.835 | SUCCESS  | scripts.test_fileTask:test_file_add:42 - 响应内容:{"status":0,"msg":"成功"}
+2021-08-07 14:23:20.841 | SUCCESS  | scripts.test_fileTask:test_file_add:43 - 响应状态码:200
+2021-08-07 14:23:20.847 | SUCCESS  | scripts.test_fileTask:test_file_add:49 - 通过任务名称查询ID:['873572008489521152', '873572018392272896']
+2021-08-07 14:23:20.860 | SUCCESS  | scripts.test_fileTask:test_file_add:27 - 获取参数：7,2,50,自动_3
+2021-08-07 14:23:22.868 | SUCCESS  | scripts.test_fileTask:test_file_add:33 - 查询终端ID:010102020301,010172021312,010172021315,010172021316,010172021319,010172021323,010172021320,010172021321,010172021317,010172021322,010172021318,112233440309,010172021301,112233440308,202107130306,202107290001,202107310226,202108050240,112233440306,202107300221,112233440368
+2021-08-07 14:23:22.875 | SUCCESS  | scripts.test_fileTask:test_file_add:37 - 查询音频文件ID:850781720083828736,850781740975656960,850781769136214016,850781777927475200,856575702202191872,861999060532203520,862363015368806400
+2021-08-07 14:23:22.880 | SUCCESS  | api.fileTaskApi:__init__:12 - ——————————————————————————> 初始化【文件广播】接口资源
+2021-08-07 14:23:22.883 | SUCCESS  | api.fileTaskApi:file_add:15 - 添加文件广播任务
+2021-08-07 14:23:23.111 | SUCCESS  | scripts.test_fileTask:test_file_add:42 - 响应内容:{"status":0,"msg":"成功"}
+2021-08-07 14:23:23.113 | SUCCESS  | scripts.test_fileTask:test_file_add:43 - 响应状态码:200
+2021-08-07 14:23:23.117 | SUCCESS  | scripts.test_fileTask:test_file_add:49 - 通过任务名称查询ID:['873572008489521152', '873572018392272896', '873572028085309440']
+2021-08-07 14:23:23.124 | SUCCESS  | scripts.test_fileTask:test_file_add:27 - 获取参数：8,2,50,自动_4
+2021-08-07 14:23:25.131 | SUCCESS  | scripts.test_fileTask:test_file_add:33 - 查询终端ID:010102020301,010172021312,010172021315,010172021316,010172021319,010172021323,010172021320,010172021321,010172021317,010172021322,010172021318,112233440309,010172021301,112233440308,202107130306,202107290001,202107310226,202108050240,112233440306,202107300221,112233440368
+2021-08-07 14:23:25.142 | SUCCESS  | scripts.test_fileTask:test_file_add:37 - 查询音频文件ID:850781720083828736,850781740975656960,850781769136214016,850781777927475200,856575702202191872,861999060532203520,862363015368806400
+2021-08-07 14:23:25.157 | SUCCESS  | api.fileTaskApi:__init__:12 - ——————————————————————————> 初始化【文件广播】接口资源
+2021-08-07 14:23:25.164 | SUCCESS  | api.fileTaskApi:file_add:15 - 添加文件广播任务
+2021-08-07 14:23:25.419 | SUCCESS  | scripts.test_fileTask:test_file_add:42 - 响应内容:{"status":0,"msg":"成功"}
+2021-08-07 14:23:25.450 | SUCCESS  | scripts.test_fileTask:test_file_add:43 - 响应状态码:200
+2021-08-07 14:23:25.472 | SUCCESS  | scripts.test_fileTask:test_file_add:49 - 通过任务名称查询ID:['873572008489521152', '873572018392272896', '873572028085309440', '873572037744791552']
+2021-08-07 14:23:25.488 | SUCCESS  | api.fileTaskApi:__init__:12 - ——————————————————————————> 初始化【文件广播】接口资源
+2021-08-07 14:23:25.494 | SUCCESS  | api.fileTaskApi:file_del:30 - 删除文件广播任务
+2021-08-07 14:23:25.815 | SUCCESS  | scripts.test_fileTask:test_file_del:62 - 删除任务ID:873572008489521152,873572018392272896,873572028085309440,873572037744791552
+2021-08-07 14:23:25.846 | SUCCESS  | scripts.test_fileTask:test_file_del:63 - 响应内容:{"status":0,"msg":"成功"}
+2021-08-07 14:23:25.862 | SUCCESS  | scripts.test_fileTask:test_file_del:64 - 响应状态码:200
+2021-08-07 14:46:24.534 | SUCCESS  | api.tokenApi:__init__:12 - ————————————————————> 初始化获取【登录】接口资源
+2021-08-07 14:46:24.537 | SUCCESS  | api.tokenApi:getToken:15 - 用户登录获取token
+2021-08-07 14:46:24.722 | SUCCESS  | api.timingProjectApi:__init__:12 - ——————————————————————————> 初始化【定时方案】接口资源
+2021-08-07 14:47:48.388 | SUCCESS  | api.tokenApi:__init__:12 - ————————————————————> 初始化获取【登录】接口资源
+2021-08-07 14:47:48.391 | SUCCESS  | api.tokenApi:getToken:15 - 用户登录获取token
+2021-08-07 14:47:48.569 | SUCCESS  | api.timingProjectApi:__init__:12 - ——————————————————————————> 初始化【定时方案】接口资源
+2021-08-07 14:47:48.574 | SUCCESS  | api.timingProjectApi:timing_project_add:15 - 添加定时方案
+2021-08-07 14:47:48.734 | SUCCESS  | api.timingProjectApi:timing_project_add:24 - 获取【添加定时任务】请求对象:<Response [200]>
+2021-08-07 15:09:23.843 | SUCCESS  | scripts.test_timingTask:setup_class:14 - ——————————> 初始化【定时方案】接口资源
+2021-08-07 15:09:23.846 | SUCCESS  | api.tokenApi:__init__:12 - ————————————————————> 初始化获取【登录】接口资源
+2021-08-07 15:09:23.848 | SUCCESS  | api.tokenApi:getToken:15 - 用户登录获取token
+2021-08-07 15:09:24.009 | SUCCESS  | scripts.test_timingTask:test_projeck_add:27 - 添加方案
+2021-08-07 15:09:24.012 | SUCCESS  | api.timingProjectApi:__init__:12 - ——————————————————————————> 初始化【定时方案】接口资源
+2021-08-07 15:09:24.024 | SUCCESS  | api.timingProjectApi:timing_project_add:15 - 添加定时方案
+2021-08-07 15:09:24.162 | SUCCESS  | api.timingProjectApi:timing_project_add:24 - 获取【添加定时任务】请求对象:<Response [200]>
+2021-08-07 15:09:24.168 | SUCCESS  | scripts.test_timingTask:test_projeck_add:34 - 获取任务ID：['']
+2021-08-07 15:12:27.101 | SUCCESS  | scripts.test_timingTask:setup_class:14 - ——————————> 初始化【定时方案】接口资源
+2021-08-07 15:12:27.105 | SUCCESS  | api.tokenApi:__init__:12 - ————————————————————> 初始化获取【登录】接口资源
+2021-08-07 15:12:27.107 | SUCCESS  | api.tokenApi:getToken:15 - 用户登录获取token
+2021-08-07 15:12:27.289 | SUCCESS  | scripts.test_timingTask:test_projeck_add:27 - 添加方案
+2021-08-07 15:12:27.292 | SUCCESS  | api.timingProjectApi:__init__:12 - ——————————————————————————> 初始化【定时方案】接口资源
+2021-08-07 15:12:27.295 | SUCCESS  | api.timingProjectApi:timing_project_add:15 - 添加定时方案
+2021-08-07 15:12:27.423 | SUCCESS  | api.timingProjectApi:timing_project_add:24 - 获取【添加定时任务】请求对象:<Response [200]>
+2021-08-07 15:12:27.433 | SUCCESS  | scripts.test_timingTask:test_projeck_add:34 - 获取任务ID：['873584377538154496']
+2021-08-07 15:17:32.746 | SUCCESS  | scripts.test_timingTask:setup_class:14 - ——————————> 初始化【定时方案】接口资源
+2021-08-07 15:17:32.750 | SUCCESS  | api.timingProjectApi:__init__:12 - ——————————————————————————> 初始化【定时方案】接口资源
+2021-08-07 15:17:32.752 | SUCCESS  | api.tokenApi:__init__:12 - ————————————————————> 初始化获取【登录】接口资源
+2021-08-07 15:17:32.754 | SUCCESS  | api.tokenApi:getToken:15 - 用户登录获取token
+2021-08-07 15:17:32.909 | SUCCESS  | api.timingProjectApi:timing_project_add:15 - 添加定时方案
+2021-08-07 15:17:32.936 | SUCCESS  | api.timingProjectApi:timing_project_add:24 - 获取【添加定时任务】请求对象:<Response [200]>
+2021-08-07 15:17:32.939 | SUCCESS  | scripts.test_timingTask:test_projeck_add:34 - 获取定时方案ID：['873584377538154496']
+2021-08-07 15:17:32.948 | SUCCESS  | api.timingProjectApi:timing_project_del:55 - 删除定时方案
+2021-08-07 15:17:33.079 | SUCCESS  | api.timingProjectApi:timing_project_del:61 - 获取【删除定时方案方案】请求对象:<Response [200]>
+2021-08-07 15:17:33.089 | SUCCESS  | scripts.test_timingTask:test_del:44 - 删除定时方案ID:873584377538154496
+2021-08-07 15:17:33.105 | SUCCESS  | scripts.test_timingTask:test_del:45 - 响应内容:{"status":0,"msg":"成功"}
+2021-08-07 15:17:33.117 | SUCCESS  | scripts.test_timingTask:test_del:46 - 响应状态码:200
+2021-08-07 15:18:38.014 | SUCCESS  | scripts.test_timingTask:setup_class:14 - ——————————> 初始化【定时方案】接口资源
+2021-08-07 15:18:38.019 | SUCCESS  | api.timingProjectApi:__init__:12 - ——————————————————————————> 初始化【定时方案】接口资源
+2021-08-07 15:18:38.023 | SUCCESS  | api.tokenApi:__init__:12 - ————————————————————> 初始化获取【登录】接口资源
+2021-08-07 15:18:38.025 | SUCCESS  | api.tokenApi:getToken:15 - 用户登录获取token
+2021-08-07 15:18:38.187 | SUCCESS  | api.timingProjectApi:timing_project_add:15 - 添加定时方案
+2021-08-07 15:18:38.317 | SUCCESS  | api.timingProjectApi:timing_project_add:24 - 获取【添加定时任务】请求对象:<Response [200]>
+2021-08-07 15:18:38.321 | SUCCESS  | scripts.test_timingTask:test_projeck_add:34 - 获取定时方案ID：['873585933146787840']
+2021-08-07 15:18:38.330 | SUCCESS  | api.timingProjectApi:timing_project_del:55 - 删除定时方案
+2021-08-07 15:18:38.441 | SUCCESS  | api.timingProjectApi:timing_project_del:61 - 获取【删除定时方案方案】请求对象:<Response [200]>
+2021-08-07 15:18:38.444 | SUCCESS  | scripts.test_timingTask:test_del:44 - 删除定时方案ID:873585933146787840
+2021-08-07 15:18:38.446 | SUCCESS  | scripts.test_timingTask:test_del:45 - 响应内容:{"status":0,"msg":"成功"}
+2021-08-07 15:18:38.448 | SUCCESS  | scripts.test_timingTask:test_del:46 - 响应状态码:200
+2021-08-07 15:28:00.689 | SUCCESS  | scripts.test_timing_project:setup_class:14 - ——————————> 初始化【定时方案】接口资源
+2021-08-07 15:28:00.692 | SUCCESS  | api.timingProjectApi:__init__:12 - ——————————————————————————> 初始化【定时方案】接口资源
+2021-08-07 15:28:00.695 | SUCCESS  | api.tokenApi:__init__:12 - ————————————————————> 初始化获取【登录】接口资源
+2021-08-07 15:28:00.697 | SUCCESS  | api.tokenApi:getToken:15 - 用户登录获取token
+2021-08-07 15:28:00.871 | SUCCESS  | api.timingProjectApi:timing_project_add:15 - 添加定时方案
+2021-08-07 15:28:01.013 | SUCCESS  | api.timingProjectApi:timing_project_add:24 - 获取【添加定时任务】请求对象:<Response [200]>
+2021-08-07 15:28:01.022 | SUCCESS  | scripts.test_timing_project:test_projeck_add:34 - 获取定时方案ID：['873588293243899904']
+2021-08-07 15:28:01.050 | SUCCESS  | api.timingProjectApi:timing_project_del:55 - 删除定时方案
+2021-08-07 15:28:01.176 | SUCCESS  | api.timingProjectApi:timing_project_del:61 - 获取【删除定时方案】请求对象:<Response [200]>
+2021-08-07 15:28:01.181 | SUCCESS  | scripts.test_timing_project:test_del:44 - 删除定时方案ID:873588293243899904
+2021-08-07 15:28:01.184 | SUCCESS  | scripts.test_timing_project:test_del:45 - 响应内容:{"status":0,"msg":"成功"}
+2021-08-07 15:28:01.187 | SUCCESS  | scripts.test_timing_project:test_del:46 - 响应状态码:200
+2021-08-07 15:59:25.793 | SUCCESS  | scripts.test_timingTask:setup_class:14 - ——————————> 初始化【定时方案】接口资源
+2021-08-07 15:59:25.797 | SUCCESS  | api.timingProjectApi:__init__:12 - ——————————————————————————> 初始化【定时方案】接口资源
+2021-08-07 15:59:25.800 | SUCCESS  | api.timingTaskApi:__init__:13 - ————————————————————> 初始化获取【定时任务】接口资源
+2021-08-07 15:59:25.803 | SUCCESS  | api.tokenApi:__init__:12 - ————————————————————> 初始化获取【登录】接口资源
+2021-08-07 15:59:25.805 | SUCCESS  | api.tokenApi:getToken:15 - 用户登录获取token
+2021-08-07 15:59:25.972 | SUCCESS  | api.timingProjectApi:timing_project_add:15 - 添加定时方案
+2021-08-07 15:59:26.118 | SUCCESS  | api.timingProjectApi:timing_project_add:24 - 获取【添加定时任务】请求对象:<Response [200]>
+2021-08-07 15:59:26.124 | SUCCESS  | scripts.test_timingTask:test_projeck_add:38 - 获取定时方案ID：['873596199871844352']
+2021-08-07 16:11:09.537 | SUCCESS  | scripts.test_timingTask:setup_class:14 - ——————————> 初始化【定时方案】接口资源
+2021-08-07 16:11:09.540 | SUCCESS  | api.timingProjectApi:__init__:12 - ——————————————————————————> 初始化【定时方案】接口资源
+2021-08-07 16:11:09.543 | SUCCESS  | api.timingTaskApi:__init__:13 - ————————————————————> 初始化获取【定时任务】接口资源
+2021-08-07 16:11:09.545 | SUCCESS  | api.tokenApi:__init__:12 - ————————————————————> 初始化获取【登录】接口资源
+2021-08-07 16:11:09.547 | SUCCESS  | api.tokenApi:getToken:15 - 用户登录获取token
+2021-08-07 16:11:09.719 | SUCCESS  | api.timingProjectApi:timing_project_add:15 - 添加定时方案
+2021-08-07 16:11:09.861 | SUCCESS  | api.timingProjectApi:timing_project_add:24 - 获取【添加定时任务】请求对象:<Response [200]>
+2021-08-07 16:11:09.869 | SUCCESS  | scripts.test_timingTask:test_projeck_add:38 - 获取定时方案ID：['873599151533592576']
+2021-08-07 16:13:17.772 | SUCCESS  | scripts.test_timingTask:setup_class:14 - ——————————> 初始化【定时方案】接口资源
+2021-08-07 16:13:17.777 | SUCCESS  | api.timingProjectApi:__init__:12 - ——————————————————————————> 初始化【定时方案】接口资源
+2021-08-07 16:13:17.779 | SUCCESS  | api.timingTaskApi:__init__:13 - ————————————————————> 初始化获取【定时任务】接口资源
+2021-08-07 16:13:17.781 | SUCCESS  | api.tokenApi:__init__:12 - ————————————————————> 初始化获取【登录】接口资源
+2021-08-07 16:13:17.783 | SUCCESS  | api.tokenApi:getToken:15 - 用户登录获取token
+2021-08-07 16:13:17.945 | SUCCESS  | api.timingProjectApi:timing_project_add:15 - 添加定时方案
+2021-08-07 16:13:17.969 | SUCCESS  | api.timingProjectApi:timing_project_add:24 - 获取【添加定时任务】请求对象:<Response [200]>
+2021-08-07 16:13:17.972 | SUCCESS  | scripts.test_timingTask:test_projeck_add:38 - 获取定时方案ID：['873599151533592576']
+2021-08-07 16:13:17.982 | SUCCESS  | api.timingTaskApi:timing_t_task_add:20 - 添加定时任务
+2021-08-07 16:13:18.096 | SUCCESS  | api.timingTaskApi:timing_t_task_add:43 - 获取【添加定时任务】请求对象:<Response [200]>
+2021-08-07 16:14:58.891 | SUCCESS  | scripts.test_timingTask:setup_class:14 - ——————————> 初始化【定时方案】接口资源
+2021-08-07 16:14:58.895 | SUCCESS  | api.timingProjectApi:__init__:12 - ——————————————————————————> 初始化【定时方案】接口资源
+2021-08-07 16:14:58.897 | SUCCESS  | api.timingTaskApi:__init__:13 - ————————————————————> 初始化获取【定时任务】接口资源
+2021-08-07 16:14:58.899 | SUCCESS  | api.tokenApi:__init__:12 - ————————————————————> 初始化获取【登录】接口资源
+2021-08-07 16:14:58.901 | SUCCESS  | api.tokenApi:getToken:15 - 用户登录获取token
+2021-08-07 16:14:59.069 | SUCCESS  | api.timingProjectApi:timing_project_add:15 - 添加定时方案
+2021-08-07 16:14:59.189 | SUCCESS  | api.timingProjectApi:timing_project_add:24 - 获取【添加定时任务】请求对象:<Response [200]>
+2021-08-07 16:14:59.196 | SUCCESS  | scripts.test_timingTask:test_projeck_add:38 - 获取定时方案ID：['873600113509797888']
+2021-08-07 16:14:59.211 | SUCCESS  | api.timingTaskApi:timing_t_task_add:20 - 添加定时任务
+2021-08-07 16:14:59.533 | SUCCESS  | api.timingTaskApi:timing_t_task_add:43 - 获取【添加定时任务】请求对象:<Response [200]>
+2021-08-07 16:17:18.819 | SUCCESS  | scripts.test_timingTask:setup_class:14 - ——————————> 初始化【定时方案】接口资源
+2021-08-07 16:17:18.823 | SUCCESS  | api.timingProjectApi:__init__:12 - ——————————————————————————> 初始化【定时方案】接口资源
+2021-08-07 16:17:18.826 | SUCCESS  | api.timingTaskApi:__init__:13 - ————————————————————> 初始化获取【定时任务】接口资源
+2021-08-07 16:17:18.828 | SUCCESS  | api.tokenApi:__init__:12 - ————————————————————> 初始化获取【登录】接口资源
+2021-08-07 16:17:18.831 | SUCCESS  | api.tokenApi:getToken:15 - 用户登录获取token
+2021-08-07 16:17:19.001 | SUCCESS  | api.timingProjectApi:timing_project_add:15 - 添加定时方案
+2021-08-07 16:17:19.182 | SUCCESS  | api.timingProjectApi:timing_project_add:24 - 获取【添加定时任务】请求对象:<Response [200]>
+2021-08-07 16:17:19.186 | SUCCESS  | scripts.test_timingTask:test_projeck_add:38 - 获取定时方案ID：['873600700355842048']
+2021-08-07 16:17:19.194 | SUCCESS  | api.timingTaskApi:timing_t_task_add:20 - 添加定时任务
+2021-08-07 16:17:19.382 | SUCCESS  | api.timingTaskApi:timing_t_task_add:43 - 获取【添加定时任务】请求对象:<Response [200]>
+2021-08-07 16:22:06.982 | SUCCESS  | scripts.test_timingTask:setup_class:14 - ——————————> 初始化【定时方案】接口资源
+2021-08-07 16:22:06.986 | SUCCESS  | api.timingProjectApi:__init__:12 - ——————————————————————————> 初始化【定时方案】接口资源
+2021-08-07 16:22:06.989 | SUCCESS  | api.timingTaskApi:__init__:13 - ————————————————————> 初始化获取【定时任务】接口资源
+2021-08-07 16:22:06.991 | SUCCESS  | api.tokenApi:__init__:12 - ————————————————————> 初始化获取【登录】接口资源
+2021-08-07 16:22:06.993 | SUCCESS  | api.tokenApi:getToken:15 - 用户登录获取token
+2021-08-07 16:22:07.191 | SUCCESS  | api.timingProjectApi:timing_project_add:15 - 添加定时方案
+2021-08-07 16:22:07.315 | SUCCESS  | api.timingProjectApi:timing_project_add:24 - 获取【添加定时任务】请求对象:<Response [200]>
+2021-08-07 16:22:07.324 | SUCCESS  | scripts.test_timingTask:test_projeck_add:38 - 获取定时方案ID：['873601909162643456']
+2021-08-07 16:22:07.353 | SUCCESS  | api.timingTaskApi:timing_t_task_add:20 - 添加定时任务
+2021-08-07 16:22:07.488 | SUCCESS  | api.timingTaskApi:timing_t_task_add:43 - 获取【添加定时任务】请求对象:<Response [200]>
+2021-08-07 16:22:07.498 | SUCCESS  | api.timingProjectApi:timing_project_del:55 - 删除定时方案
+2021-08-07 16:22:07.623 | SUCCESS  | api.timingProjectApi:timing_project_del:61 - 获取【删除定时方案】请求对象:<Response [200]>
+2021-08-07 16:22:07.628 | SUCCESS  | scripts.test_timingTask:test_del:62 - 删除定时方案ID:873601909162643456
+2021-08-07 16:22:07.633 | SUCCESS  | scripts.test_timingTask:test_del:63 - 响应内容:{"status":0,"msg":"成功"}
+2021-08-07 16:22:07.638 | SUCCESS  | scripts.test_timingTask:test_del:64 - 响应状态码:200
+2021-08-07 16:25:42.938 | SUCCESS  | api.tokenApi:__init__:12 - ————————————————————> 初始化获取【登录】接口资源
+2021-08-07 16:25:42.944 | SUCCESS  | api.tokenApi:getToken:15 - 用户登录获取token
+2021-08-07 16:25:43.118 | SUCCESS  | scripts.test_fileTask:test_file_add:27 - 获取参数：5,0,50,自动_1
+2021-08-07 16:25:45.126 | SUCCESS  | scripts.test_fileTask:test_file_add:33 - 查询终端ID:010102020301,010172021312,010172021315,010172021316,010172021319,010172021323,010172021320,010172021321,010172021317,010172021322,010172021318,112233440309,010172021301,112233440308,202107130306,202107290001,202107310226,202108050240,112233440306,202107300221,112233440368
+2021-08-07 16:25:45.143 | SUCCESS  | scripts.test_fileTask:test_file_add:37 - 查询音频文件ID:850781720083828736,850781740975656960,850781769136214016,850781777927475200,856575702202191872,861999060532203520,862363015368806400
+2021-08-07 16:25:45.157 | SUCCESS  | api.fileTaskApi:__init__:12 - ——————————————————————————> 初始化【文件广播】接口资源
+2021-08-07 16:25:45.171 | SUCCESS  | api.fileTaskApi:file_add:15 - 添加文件广播任务
+2021-08-07 16:25:45.440 | SUCCESS  | scripts.test_fileTask:test_file_add:42 - 响应内容:{"status":0,"msg":"成功"}
+2021-08-07 16:25:45.443 | SUCCESS  | scripts.test_fileTask:test_file_add:43 - 响应状态码:200
+2021-08-07 16:25:45.450 | SUCCESS  | scripts.test_fileTask:test_file_add:49 - 通过任务名称查询ID:['873602823613190144']
+2021-08-07 16:25:45.456 | SUCCESS  | scripts.test_fileTask:test_file_add:27 - 获取参数：6,1,50,自动_2
+2021-08-07 16:25:47.465 | SUCCESS  | scripts.test_fileTask:test_file_add:33 - 查询终端ID:010102020301,010172021312,010172021315,010172021316,010172021319,010172021323,010172021320,010172021321,010172021317,010172021322,010172021318,112233440309,010172021301,112233440308,202107130306,202107290001,202107310226,202108050240,112233440306,202107300221,112233440368
+2021-08-07 16:25:47.492 | SUCCESS  | scripts.test_fileTask:test_file_add:37 - 查询音频文件ID:850781720083828736,850781740975656960,850781769136214016,850781777927475200,856575702202191872,861999060532203520,862363015368806400
+2021-08-07 16:25:47.500 | SUCCESS  | api.fileTaskApi:__init__:12 - ——————————————————————————> 初始化【文件广播】接口资源
+2021-08-07 16:25:47.509 | SUCCESS  | api.fileTaskApi:file_add:15 - 添加文件广播任务
+2021-08-07 16:25:47.758 | SUCCESS  | scripts.test_fileTask:test_file_add:42 - 响应内容:{"status":0,"msg":"成功"}
+2021-08-07 16:25:47.763 | SUCCESS  | scripts.test_fileTask:test_file_add:43 - 响应状态码:200
+2021-08-07 16:25:47.769 | SUCCESS  | scripts.test_fileTask:test_file_add:49 - 通过任务名称查询ID:['873602823613190144', '873602833373335552']
+2021-08-07 16:25:47.774 | SUCCESS  | scripts.test_fileTask:test_file_add:27 - 获取参数：7,2,50,自动_3
+2021-08-07 16:25:49.784 | SUCCESS  | scripts.test_fileTask:test_file_add:33 - 查询终端ID:010102020301,010172021312,010172021315,010172021316,010172021319,010172021323,010172021320,010172021321,010172021317,010172021322,010172021318,112233440309,010172021301,112233440308,202107130306,202107290001,202107310226,202108050240,112233440306,202107300221,112233440368
+2021-08-07 16:25:49.790 | SUCCESS  | scripts.test_fileTask:test_file_add:37 - 查询音频文件ID:850781720083828736,850781740975656960,850781769136214016,850781777927475200,856575702202191872,861999060532203520,862363015368806400
+2021-08-07 16:25:49.793 | SUCCESS  | api.fileTaskApi:__init__:12 - ——————————————————————————> 初始化【文件广播】接口资源
+2021-08-07 16:25:49.796 | SUCCESS  | api.fileTaskApi:file_add:15 - 添加文件广播任务
+2021-08-07 16:25:50.107 | SUCCESS  | scripts.test_fileTask:test_file_add:42 - 响应内容:{"status":0,"msg":"成功"}
+2021-08-07 16:25:50.120 | SUCCESS  | scripts.test_fileTask:test_file_add:43 - 响应状态码:200
+2021-08-07 16:25:50.155 | SUCCESS  | scripts.test_fileTask:test_file_add:49 - 通过任务名称查询ID:['873602823613190144', '873602833373335552', '873602842898599936']
+2021-08-07 16:25:50.183 | SUCCESS  | scripts.test_fileTask:test_file_add:27 - 获取参数：8,2,50,自动_4
+2021-08-07 16:25:52.192 | SUCCESS  | scripts.test_fileTask:test_file_add:33 - 查询终端ID:010102020301,010172021312,010172021315,010172021316,010172021319,010172021323,010172021320,010172021321,010172021317,010172021322,010172021318,112233440309,010172021301,112233440308,202107130306,202107290001,202107310226,202108050240,112233440306,202107300221,112233440368
+2021-08-07 16:25:52.225 | SUCCESS  | scripts.test_fileTask:test_file_add:37 - 查询音频文件ID:850781720083828736,850781740975656960,850781769136214016,850781777927475200,856575702202191872,861999060532203520,862363015368806400
+2021-08-07 16:25:52.235 | SUCCESS  | api.fileTaskApi:__init__:12 - ——————————————————————————> 初始化【文件广播】接口资源
+2021-08-07 16:25:52.243 | SUCCESS  | api.fileTaskApi:file_add:15 - 添加文件广播任务
+2021-08-07 16:25:52.470 | SUCCESS  | scripts.test_fileTask:test_file_add:42 - 响应内容:{"status":0,"msg":"成功"}
+2021-08-07 16:25:52.477 | SUCCESS  | scripts.test_fileTask:test_file_add:43 - 响应状态码:200
+2021-08-07 16:25:52.487 | SUCCESS  | scripts.test_fileTask:test_file_add:49 - 通过任务名称查询ID:['873602823613190144', '873602833373335552', '873602842898599936', '873602853250142208']
+2021-08-07 16:25:52.497 | SUCCESS  | api.fileTaskApi:__init__:12 - ——————————————————————————> 初始化【文件广播】接口资源
+2021-08-07 16:25:52.503 | SUCCESS  | api.fileTaskApi:file_del:30 - 删除文件广播任务
+2021-08-07 16:25:52.826 | SUCCESS  | scripts.test_fileTask:test_file_del:62 - 删除任务ID:873602823613190144,873602833373335552,873602842898599936,873602853250142208
+2021-08-07 16:25:52.845 | SUCCESS  | scripts.test_fileTask:test_file_del:63 - 响应内容:{"status":0,"msg":"成功"}
+2021-08-07 16:25:52.879 | SUCCESS  | scripts.test_fileTask:test_file_del:64 - 响应状态码:200
+2021-08-07 16:25:52.934 | SUCCESS  | scripts.test_timingTask:setup_class:14 - ——————————> 初始化【定时方案】接口资源
+2021-08-07 16:25:52.939 | SUCCESS  | api.timingProjectApi:__init__:12 - ——————————————————————————> 初始化【定时方案】接口资源
+2021-08-07 16:25:52.942 | SUCCESS  | api.timingTaskApi:__init__:13 - ————————————————————> 初始化获取【定时任务】接口资源
+2021-08-07 16:25:52.945 | SUCCESS  | api.tokenApi:__init__:12 - ————————————————————> 初始化获取【登录】接口资源
+2021-08-07 16:25:52.947 | SUCCESS  | api.tokenApi:getToken:15 - 用户登录获取token
+2021-08-07 16:25:53.108 | SUCCESS  | api.timingProjectApi:timing_project_add:15 - 添加定时方案
+2021-08-07 16:25:53.222 | SUCCESS  | api.timingProjectApi:timing_project_add:24 - 获取【添加定时任务】请求对象:<Response [200]>
+2021-08-07 16:25:53.234 | SUCCESS  | scripts.test_timingTask:test_projeck_add:40 - 获取定时方案ID：['873602856630751232']
+2021-08-07 16:25:53.269 | SUCCESS  | api.timingTaskApi:timing_t_task_add:20 - 添加定时任务
+2021-08-07 16:25:53.528 | SUCCESS  | api.timingTaskApi:timing_t_task_add:43 - 获取【添加定时任务】请求对象:<Response [200]>
+2021-08-07 16:25:53.562 | SUCCESS  | api.timingProjectApi:timing_project_del:55 - 删除定时方案
+2021-08-07 16:25:53.686 | SUCCESS  | api.timingProjectApi:timing_project_del:61 - 获取【删除定时方案】请求对象:<Response [200]>
+2021-08-07 16:25:53.692 | SUCCESS  | scripts.test_timingTask:test_del:66 - 删除定时方案ID:873602856630751232
+2021-08-07 16:25:53.695 | SUCCESS  | scripts.test_timingTask:test_del:67 - 响应内容:{"status":0,"msg":"成功"}
+2021-08-07 16:25:53.697 | SUCCESS  | scripts.test_timingTask:test_del:68 - 响应状态码:200
+2021-08-07 16:25:53.707 | SUCCESS  | scripts.test_timing_project:setup_class:14 - ——————————> 初始化【定时方案】接口资源
+2021-08-07 16:25:53.712 | SUCCESS  | api.timingProjectApi:__init__:12 - ——————————————————————————> 初始化【定时方案】接口资源
+2021-08-07 16:25:53.718 | SUCCESS  | api.tokenApi:__init__:12 - ————————————————————> 初始化获取【登录】接口资源
+2021-08-07 16:25:53.721 | SUCCESS  | api.tokenApi:getToken:15 - 用户登录获取token
+2021-08-07 16:25:53.880 | SUCCESS  | api.timingProjectApi:timing_project_add:15 - 添加定时方案
+2021-08-07 16:25:53.918 | SUCCESS  | api.timingProjectApi:timing_project_add:24 - 获取【添加定时任务】请求对象:<Response [200]>
+2021-08-07 16:25:53.927 | SUCCESS  | scripts.test_timing_project:test_projeck_add:34 - 获取定时方案ID：['']
+2021-08-07 16:25:53.946 | SUCCESS  | api.timingProjectApi:timing_project_del:55 - 删除定时方案
+2021-08-07 16:25:53.964 | SUCCESS  | api.timingProjectApi:timing_project_del:61 - 获取【删除定时方案】请求对象:<Response [200]>
+2021-08-07 16:25:53.967 | SUCCESS  | scripts.test_timing_project:test_del:44 - 删除定时方案ID:
+2021-08-07 16:25:53.969 | SUCCESS  | scripts.test_timing_project:test_del:45 - 响应内容:{"status":2005,"msg":"点击频率过快，请稍后再试！"}
+2021-08-07 16:25:53.971 | SUCCESS  | scripts.test_timing_project:test_del:46 - 响应状态码:200
+2021-08-07 16:26:26.190 | SUCCESS  | api.tokenApi:__init__:12 - ————————————————————> 初始化获取【登录】接口资源
+2021-08-07 16:26:26.194 | SUCCESS  | api.tokenApi:getToken:15 - 用户登录获取token
+2021-08-07 16:26:26.369 | SUCCESS  | scripts.test_fileTask:test_file_add:27 - 获取参数：5,0,50,自动_1
+2021-08-07 16:26:28.386 | SUCCESS  | scripts.test_fileTask:test_file_add:33 - 查询终端ID:010102020301,010172021312,010172021315,010172021316,010172021319,010172021323,010172021320,010172021321,010172021317,010172021322,010172021318,112233440309,010172021301,112233440308,202107130306,202107290001,202107310226,202108050240,112233440306,202107300221,112233440368
+2021-08-07 16:26:28.406 | SUCCESS  | scripts.test_fileTask:test_file_add:37 - 查询音频文件ID:850781720083828736,850781740975656960,850781769136214016,850781777927475200,856575702202191872,861999060532203520,862363015368806400
+2021-08-07 16:26:28.421 | SUCCESS  | api.fileTaskApi:__init__:12 - ——————————————————————————> 初始化【文件广播】接口资源
+2021-08-07 16:26:28.434 | SUCCESS  | api.fileTaskApi:file_add:15 - 添加文件广播任务
+2021-08-07 16:26:28.731 | SUCCESS  | scripts.test_fileTask:test_file_add:42 - 响应内容:{"status":0,"msg":"成功"}
+2021-08-07 16:26:28.735 | SUCCESS  | scripts.test_fileTask:test_file_add:43 - 响应状态码:200
+2021-08-07 16:26:28.742 | SUCCESS  | scripts.test_fileTask:test_file_add:49 - 通过任务名称查询ID:['873603005100724224']
+2021-08-07 16:26:28.753 | SUCCESS  | scripts.test_fileTask:test_file_add:27 - 获取参数：6,1,50,自动_2
+2021-08-07 16:26:30.766 | SUCCESS  | scripts.test_fileTask:test_file_add:33 - 查询终端ID:010102020301,010172021312,010172021315,010172021316,010172021319,010172021323,010172021320,010172021321,010172021317,010172021322,010172021318,112233440309,010172021301,112233440308,202107130306,202107290001,202107310226,202108050240,112233440306,202107300221,112233440368
+2021-08-07 16:26:30.776 | SUCCESS  | scripts.test_fileTask:test_file_add:37 - 查询音频文件ID:850781720083828736,850781740975656960,850781769136214016,850781777927475200,856575702202191872,861999060532203520,862363015368806400
+2021-08-07 16:26:30.786 | SUCCESS  | api.fileTaskApi:__init__:12 - ——————————————————————————> 初始化【文件广播】接口资源
+2021-08-07 16:26:30.803 | SUCCESS  | api.fileTaskApi:file_add:15 - 添加文件广播任务
+2021-08-07 16:26:31.057 | SUCCESS  | scripts.test_fileTask:test_file_add:42 - 响应内容:{"status":0,"msg":"成功"}
+2021-08-07 16:26:31.062 | SUCCESS  | scripts.test_fileTask:test_file_add:43 - 响应状态码:200
+2021-08-07 16:26:31.068 | SUCCESS  | scripts.test_fileTask:test_file_add:49 - 通过任务名称查询ID:['873603005100724224', '873603015003475968']
+2021-08-07 16:26:31.077 | SUCCESS  | scripts.test_fileTask:test_file_add:27 - 获取参数：7,2,50,自动_3
+2021-08-07 16:26:33.087 | SUCCESS  | scripts.test_fileTask:test_file_add:33 - 查询终端ID:010102020301,010172021312,010172021315,010172021316,010172021319,010172021323,010172021320,010172021321,010172021317,010172021322,010172021318,112233440309,010172021301,112233440308,202107130306,202107290001,202107310226,202108050240,112233440306,202107300221,112233440368
+2021-08-07 16:26:33.125 | SUCCESS  | scripts.test_fileTask:test_file_add:37 - 查询音频文件ID:850781720083828736,850781740975656960,850781769136214016,850781777927475200,856575702202191872,861999060532203520,862363015368806400
+2021-08-07 16:26:33.143 | SUCCESS  | api.fileTaskApi:__init__:12 - ——————————————————————————> 初始化【文件广播】接口资源
+2021-08-07 16:26:33.149 | SUCCESS  | api.fileTaskApi:file_add:15 - 添加文件广播任务
+2021-08-07 16:26:33.429 | SUCCESS  | scripts.test_fileTask:test_file_add:42 - 响应内容:{"status":0,"msg":"成功"}
+2021-08-07 16:26:33.456 | SUCCESS  | scripts.test_fileTask:test_file_add:43 - 响应状态码:200
+2021-08-07 16:26:33.484 | SUCCESS  | scripts.test_fileTask:test_file_add:49 - 通过任务名称查询ID:['873603005100724224', '873603015003475968', '873603024797175808']
+2021-08-07 16:26:33.503 | SUCCESS  | scripts.test_fileTask:test_file_add:27 - 获取参数：8,2,50,自动_4
+2021-08-07 16:26:35.516 | SUCCESS  | scripts.test_fileTask:test_file_add:33 - 查询终端ID:010102020301,010172021312,010172021315,010172021316,010172021319,010172021323,010172021320,010172021321,010172021317,010172021322,010172021318,112233440309,010172021301,112233440308,202107130306,202107290001,202107310226,202108050240,112233440306,202107300221,112233440368
+2021-08-07 16:26:35.533 | SUCCESS  | scripts.test_fileTask:test_file_add:37 - 查询音频文件ID:850781720083828736,850781740975656960,850781769136214016,850781777927475200,856575702202191872,861999060532203520,862363015368806400
+2021-08-07 16:26:35.565 | SUCCESS  | api.fileTaskApi:__init__:12 - ——————————————————————————> 初始化【文件广播】接口资源
+2021-08-07 16:26:35.581 | SUCCESS  | api.fileTaskApi:file_add:15 - 添加文件广播任务
+2021-08-07 16:26:35.801 | SUCCESS  | scripts.test_fileTask:test_file_add:42 - 响应内容:{"status":0,"msg":"成功"}
+2021-08-07 16:26:35.805 | SUCCESS  | scripts.test_fileTask:test_file_add:43 - 响应状态码:200
+2021-08-07 16:26:35.812 | SUCCESS  | scripts.test_fileTask:test_file_add:49 - 通过任务名称查询ID:['873603005100724224', '873603015003475968', '873603024797175808', '873603034943197184']
+2021-08-07 16:26:35.820 | SUCCESS  | api.fileTaskApi:__init__:12 - ——————————————————————————> 初始化【文件广播】接口资源
+2021-08-07 16:26:35.823 | SUCCESS  | api.fileTaskApi:file_del:30 - 删除文件广播任务
+2021-08-07 16:26:36.135 | SUCCESS  | scripts.test_fileTask:test_file_del:62 - 删除任务ID:873603005100724224,873603015003475968,873603024797175808,873603034943197184
+2021-08-07 16:26:36.149 | SUCCESS  | scripts.test_fileTask:test_file_del:63 - 响应内容:{"status":0,"msg":"成功"}
+2021-08-07 16:26:36.161 | SUCCESS  | scripts.test_fileTask:test_file_del:64 - 响应状态码:200
+2021-08-07 16:26:36.230 | SUCCESS  | scripts.test_timingTask:setup_class:14 - ——————————> 初始化【定时方案】接口资源
+2021-08-07 16:26:36.236 | SUCCESS  | api.timingProjectApi:__init__:12 - ——————————————————————————> 初始化【定时方案】接口资源
+2021-08-07 16:26:36.239 | SUCCESS  | api.timingTaskApi:__init__:13 - ————————————————————> 初始化获取【定时任务】接口资源
+2021-08-07 16:26:36.245 | SUCCESS  | api.tokenApi:__init__:12 - ————————————————————> 初始化获取【登录】接口资源
+2021-08-07 16:26:36.248 | SUCCESS  | api.tokenApi:getToken:15 - 用户登录获取token
+2021-08-07 16:26:36.425 | SUCCESS  | api.timingProjectApi:timing_project_add:15 - 添加定时方案
+2021-08-07 16:26:36.530 | SUCCESS  | api.timingProjectApi:timing_project_add:24 - 获取【添加定时任务】请求对象:<Response [200]>
+2021-08-07 16:26:36.540 | SUCCESS  | scripts.test_timingTask:test_projeck_add:40 - 获取定时方案ID：['873603038328000512']
+2021-08-07 16:26:36.564 | SUCCESS  | api.timingTaskApi:timing_t_task_add:20 - 添加定时任务
+2021-08-07 16:26:36.801 | SUCCESS  | api.timingTaskApi:timing_t_task_add:43 - 获取【添加定时任务】请求对象:<Response [200]>
+2021-08-07 16:26:36.834 | SUCCESS  | api.timingProjectApi:timing_project_del:55 - 删除定时方案
+2021-08-07 16:26:36.974 | SUCCESS  | api.timingProjectApi:timing_project_del:61 - 获取【删除定时方案】请求对象:<Response [200]>
+2021-08-07 16:26:36.981 | SUCCESS  | scripts.test_timingTask:test_del:66 - 删除定时方案ID:873603038328000512
+2021-08-07 16:26:36.989 | SUCCESS  | scripts.test_timingTask:test_del:67 - 响应内容:{"status":0,"msg":"成功"}
+2021-08-07 16:26:37.000 | SUCCESS  | scripts.test_timingTask:test_del:68 - 响应状态码:200
+2021-08-07 16:26:37.032 | SUCCESS  | scripts.test_timing_project:setup_class:14 - ——————————> 初始化【定时方案】接口资源
+2021-08-07 16:26:37.039 | SUCCESS  | api.timingProjectApi:__init__:12 - ——————————————————————————> 初始化【定时方案】接口资源
+2021-08-07 16:26:37.044 | SUCCESS  | api.tokenApi:__init__:12 - ————————————————————> 初始化获取【登录】接口资源
+2021-08-07 16:26:37.047 | SUCCESS  | api.tokenApi:getToken:15 - 用户登录获取token
+2021-08-07 16:26:37.212 | SUCCESS  | api.timingProjectApi:timing_project_add:15 - 添加定时方案
+2021-08-07 16:26:37.247 | SUCCESS  | api.timingProjectApi:timing_project_add:24 - 获取【添加定时任务】请求对象:<Response [200]>
+2021-08-07 16:26:37.255 | SUCCESS  | scripts.test_timing_project:test_projeck_add:34 - 获取定时方案ID：['']
+2021-08-07 16:26:37.265 | SUCCESS  | api.timingProjectApi:timing_project_del:55 - 删除定时方案
+2021-08-07 16:26:37.285 | SUCCESS  | api.timingProjectApi:timing_project_del:61 - 获取【删除定时方案】请求对象:<Response [200]>
+2021-08-07 16:26:37.289 | SUCCESS  | scripts.test_timing_project:test_del:44 - 删除定时方案ID:
+2021-08-07 16:26:37.293 | SUCCESS  | scripts.test_timing_project:test_del:45 - 响应内容:{"status":2005,"msg":"点击频率过快，请稍后再试！"}
+2021-08-07 16:26:37.297 | SUCCESS  | scripts.test_timing_project:test_del:46 - 响应状态码:200

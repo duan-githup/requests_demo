@@ -11,15 +11,13 @@ class TimingProject:
         self.url_del = api.host + "/cloud/plan/delPlan"
         log.success("——————————————————————————> 初始化【定时方案】接口资源")
 
-    def timing_project_add(self, token, planId, planName, beginDate, endDate, holidayJson):
+    def timing_project_add(self, token, planName, beginDate, endDate):
         log.success("添加定时方案")
         # 发送请求参数
         data = {
-            "planId": planId,
             "planName": planName,
             "beginDate": beginDate,
-            "endDate": endDate,
-            "holidayJson": holidayJson
+            "endDate": endDate
         }
         # 获取响应结果
         response = requests.post(self.url_add, data=data, headers=token)
@@ -50,7 +48,7 @@ class TimingProject:
         }
         # 返回响应结果
         response = requests.post(url=self.url_state, data=data, headers=token)
-        log.success("获取【修改定时方案方案】请求对象:{}".format(response))
+        log.success("获取【修改定时方案】请求对象:{}".format(response))
         return response
 
     def timing_project_del(self, token, planIds):
@@ -60,7 +58,13 @@ class TimingProject:
             "planIds": planIds
         }
         response = requests.post(url=self.url_del, data=data, headers=token)
-        log.success("获取【删除定时方案方案】请求对象:{}".format(response))
+        log.success("获取【删除定时方案】请求对象:{}".format(response))
         return response
 
 
+if __name__ == '__main__':
+    from api.entranceApi import EntranceApi
+    t = EntranceApi().ent_token().getToken()
+    tt = TimingProject()
+    response = tt.timing_project_add(t,"自动测试方案","2021-08-07","2021-08-31")
+    print(response.text)

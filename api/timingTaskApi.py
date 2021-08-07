@@ -1,6 +1,8 @@
-import requests,api
+import requests, api
 from base.base_log import GetLogging
+
 log = GetLogging.get_log()
+
 
 class TimingTaskApi:
 
@@ -10,9 +12,11 @@ class TimingTaskApi:
         self.url_del = api.host + "/cloud/task/deleteTask"
         log.success("————————————————————> 初始化获取【定时任务】接口资源")
 
-    def timing_t_task_add(self, token, planId, taskId, taskHardwareId, taskName, timedExecuteType, beginDate, endDate,
-                          weeks, executeTime, continueTime, taskPriority, taskMediaFileId, playMode, taskVolume,
-                          taskType):
+    def timing_t_task_add(self, token, planId=None, taskId=None, taskHardwareId=None, taskName=None,
+                          timedExecuteType=None, beginDate=None, endDate=None,
+                          weeks=None, executeTime=None, continueTime=None, taskPriority=None, taskMediaFileId=None,
+                          playMode=None, taskVolume=None,
+                          taskType=None,speechData=None,captureType=None):
         log.success("添加定时任务")
         # 发送请求参数
         data = {
@@ -30,7 +34,9 @@ class TimingTaskApi:
             "taskMediaFileId": taskMediaFileId,
             "playMode": playMode,
             "taskVolume": taskVolume,
-            "taskType": taskType
+            "taskType": taskType,
+            "speechData": speechData,
+            "captureType": captureType
         }
         # 返回响应对象
         response = requests.post(self.url_add, data=data, headers=token)
